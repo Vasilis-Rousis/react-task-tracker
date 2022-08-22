@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <div>
-        <p>Just fkin do it now</p>
+        <p>Just do it now</p>
     </div>
   )
 }
